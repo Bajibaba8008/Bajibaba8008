@@ -14,4 +14,4 @@
 ![Baji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bajibaba8008&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
-- LinkedIn: [bajibabashaik976](https://www.linkedin.com/in/bajibabashaik976/)
+- LinkedIn: [bajibabashaik976](https://www.linkedin.com/in/bajibabashaik/)
